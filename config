@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "ejercicioInma"]
+	url = master
+	fetch = +refs/heads/*:refs/remotes/ejercicioInma/*
